@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayLayoutAndronity</string>
+    <string name="price_539">$ 539</string>
+    <string name="night">/ night</string>
+    <string name="poster_hotel">Poster Hotel</string>
+    <string name="kesuma_hotel">Kesuma Hotel</string>
+    <string name="label_5_stars">5 stars</string>
+    <string name="address">Kesuma Hotel beralamat di Jalan Raja Ali Haji No. 5 - 6, Pekanbaru. Letaknya dekat dengan masjid dan pasar tradisional sekitar 2 menit perjalanan. Dan sekitar 10 menit perjalanan menuju bandara.</string>
+    <string name="book_now">Book Now</string>
+    <string name="share">Share</string>
+</resources>
